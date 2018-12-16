@@ -5,7 +5,7 @@
 1.Fraud Detection  
 2.Car Pricing
 
-Fraud Detection is done using Logistic Classification ,The project is on detecting Fraud transaction of credit cards
+Fraud Detection is done using Logistic Classification ,The project is on detecting Fraud transaction of credit cards.
 Car Pricing is done using Random Forest Regressor, The project is predicting the car price based on the model , car type etc.
 
 
